@@ -1,1 +1,1 @@
-# VeterinerUygulamas-
+# VeterinerUygulamasi
