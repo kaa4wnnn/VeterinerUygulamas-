@@ -1,0 +1,5 @@
+C:\Users\kaccc\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Release\WindowsFormsApp5.csproj.AssemblyReference.cache
+C:\Users\kaccc\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Release\VeterinerUygulama.Form1.resources
+C:\Users\kaccc\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Release\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\kaccc\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Release\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\kaccc\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Release\WindowsFormsApp5.csproj.CoreCompileInputs.cache
