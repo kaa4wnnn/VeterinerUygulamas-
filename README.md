@@ -11,18 +11,7 @@ Evcil hayvanların veteriner kayıtlarını yönetmek için geliştirilmiş, mod
 
 Bu proje, bir veteriner kliniğinde kullanılabilecek basit ama işlevsel bir **evcil hayvan kayıt yönetim sistemi**dir. Hayvan adı, türü, sahibi ve aşı durumu gibi temel bilgileri SQL Server veritabanında saklar; kayıt ekleme, güncelleme ve silme işlemlerini tek ekrandan gerçekleştirmenize olanak tanır.
 
-Arayüz, standart Windows Forms bileşenlerinin ötesine geçerek elle çizilmiş özel kontroller (`GlowButton`, `ModernCheckBox`, `InputFieldPanel`, `ThemePanel`) ve merkezi bir tema sistemi (`UiTheme`) ile inşa edilmiştir. Sonuç: karanlık, sade ve kullanımı keyifli bir deneyim.
-
----
-
-## ✨ Özellikler
-
-- **Canlı kayıt listesi** — Uygulama açılır açılmaz tüm kayıtlar otomatik yüklenir
-- **Hızlı CRUD işlemleri** — Ekle / Güncelle / Sil tek tıklamayla
-- **Aşı durumu takibi** — Checkbox ile anında işaretleme
-- **Smooth animasyonlu butonlar** — Hover geçişleri 60 fps timer ile yumuşatılmış
-- **Tam dark-mode arayüz** — Göz yormayan, tutarlı renk paleti
-- **Double-buffer DataGridView** — Titreşimsiz, akıcı tablo yenileme
+Arayüz, standart Windows Forms bileşenlerinin ötesine geçerek elle çizilmiş özel kontroller (`GlowButton`, `ModernCheckBox`, `InputFieldPanel`, `ThemePanel`) ve merkezi bir tema sistemi (`UiTheme`) ile inşa edilmiştir. Sonuç: sade ve kullanımı keyifli bir deneyim.
 
 ---
 
